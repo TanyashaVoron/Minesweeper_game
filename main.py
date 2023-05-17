@@ -1,4 +1,4 @@
-from GameWindow import MineSweeper
+from Game import MineSweeper
 
 
 def main():
